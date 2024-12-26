@@ -1,9 +1,29 @@
-Learning my ways.
-<br>
-Testing the waters.
-<br>
-This is my first project.
-<br>
-This line is  changed through VS code.
-<br>
-This line is to check the status command and pushing without comments/message
+# Portfolio Website
+
+This is my first web development project where I created a personal portfolio website. It was built to showcase my skills, projects, and interests as I started learning web development.
+
+## Features
+- **Home Page**: A brief introduction about myself.
+- **Projects Section**: Highlighting my academic and personal projects.
+- **Contact Section**: Includes links to my social media and a way to get in touch.
+
+## Technologies Used
+- **HTML**: For the structure of the website.
+- **CSS**: To style and make the website visually appealing.
+
+## What I Learned
+- Basic structure and elements of HTML.
+- How to use CSS for styling and layout.
+- The importance of responsive design for different screen sizes.
+
+## Future Improvements
+- Add more interactivity using JavaScript.
+- Include a project filtering system.
+- Enhance the design with animations and transitions.
+
+## How to View
+You can open the `index.html` file in any browser to see the website in action.
+
+---
+
+This project was a stepping stone in my journey to becoming a web developer. While it’s simple, it gave me the confidence to continue exploring and learning more about web development. 😊
