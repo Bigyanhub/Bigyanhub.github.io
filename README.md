@@ -1,6 +1,5 @@
-# Portfolio Website
-
-This is my first web development project where I created a personal portfolio website. It was built to showcase my skills, projects, and interests as I started learning web development.
+# Experimental Portfolio Website
+This was my first attempt at creating a portfolio website. It’s not perfect, but it helped me understand the basics of web development.
 
 ## Features
 - **Home Page**: A brief introduction about myself.
