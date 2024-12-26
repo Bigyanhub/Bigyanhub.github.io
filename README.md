@@ -4,4 +4,6 @@ Testing the waters.
 <br>
 This is my first project.
 <br>
-This change is through VS code.
+This line is  changed through VS code.
+<br>
+This line is to check the status command and pushing without comments/message
