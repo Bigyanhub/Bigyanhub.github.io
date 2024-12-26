@@ -25,4 +25,4 @@ You can open the `index.html` file in any browser to see the website in action.
 
 ---
 
-This project was a stepping stone in my journey to becoming a web developer. While it’s simple, it gave me the confidence to continue exploring and learning more about web development. 😊
+This project was a stepping stone in my journey to learning web development. 🌟 While it’s simple, it helped me build confidence and improve my understanding of the basics. 💻✨
